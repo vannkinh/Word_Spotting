@@ -1,0 +1,58 @@
+<Annotation>
+	<CharAnno><Char id="9" label="&#6016;" lineid="0">
+		<coor xmin="975" ymin="72" />
+		<coor xmax="1039" ymax="124" />
+	</Char></CharAnno>
+	<CharAnno><Char id="12" label="&#6035;" lineid="1">
+		<coor xmin="669" ymin="141" />
+		<coor xmax="726" ymax="204" />
+	</Char></CharAnno>
+	<CharAnno><Char id="13" label="&#6042;" lineid="2">
+		<coor xmin="615" ymin="221" />
+		<coor xmax="654" ymax="268" />
+	</Char></CharAnno>
+	<CharAnno><Char id="30" label="&#6035;" lineid="3">
+		<coor xmin="674" ymin="297" />
+		<coor xmax="736" ymax="358" />
+	</Char></CharAnno>
+	<CharAnno><Char id="35" label="&#6040;" lineid="4">
+		<coor xmin="626" ymin="380" />
+		<coor xmax="695" ymax="431" />
+	</Char></CharAnno>
+	<CharAnno><Char id="39" label="&#6035;" lineid="4">
+		<coor xmin="887" ymin="375" />
+		<coor xmax="947" ymax="437" />
+	</Char></CharAnno>
+	<CharAnno><Char id="43" label="&#6047;" lineid="3">
+		<coor xmin="895" ymin="300" />
+		<coor xmax="983" ymax="357" />
+	</Char></CharAnno>
+	<CharAnno><Char id="50" label="&#6035;" lineid="0">
+		<coor xmin="1071" ymin="67" />
+		<coor xmax="1131" ymax="125" />
+	</Char></CharAnno>
+	<CharAnno><Char id="53" label="&#6035;" lineid="0">
+		<coor xmin="1178" ymin="59" />
+		<coor xmax="1238" ymax="127" />
+	</Char></CharAnno>
+	<CharAnno><Char id="65" label="&#6042;" lineid="1">
+		<coor xmin="1238" ymin="136" />
+		<coor xmax="1278" ymax="193" />
+	</Char></CharAnno>
+	<CharAnno><Char id="72" label="&#6042;" lineid="3">
+		<coor xmin="1379" ymin="291" />
+		<coor xmax="1413" ymax="350" />
+	</Char></CharAnno>
+	<CharAnno><Char id="90" label="&#6040;" lineid="2">
+		<coor xmin="1515" ymin="218" />
+		<coor xmax="1584" ymax="271" />
+	</Char></CharAnno>
+	<CharAnno><Char id="91" label="&#6035;" lineid="2">
+		<coor xmin="1582" ymin="217" />
+		<coor xmax="1647" ymax="273" />
+	</Char></CharAnno>
+	<CharAnno><Char id="112" label="&#6047;" lineid="4">
+		<coor xmin="1820" ymin="370" />
+		<coor xmax="1913" ymax="432" />
+	</Char></CharAnno>
+</Annotation>

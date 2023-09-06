@@ -1,0 +1,114 @@
+<Annotation>
+	<CharAnno><Char id="60" label="&#6016;" lineid="0">
+		<coor xmin="165" ymin="28" />
+		<coor xmax="233" ymax="76" />
+	</Char></CharAnno>
+	<CharAnno><Char id="67" label="&#6035;" lineid="0">
+		<coor xmin="428" ymin="29" />
+		<coor xmax="502" ymax="97" />
+	</Char></CharAnno>
+	<CharAnno><Char id="74" label="&#6042;" lineid="0">
+		<coor xmin="1014" ymin="30" />
+		<coor xmax="1052" ymax="87" />
+	</Char></CharAnno>
+	<CharAnno><Char id="79" label="&#6040;" lineid="0">
+		<coor xmin="1230" ymin="36" />
+		<coor xmax="1300" ymax="89" />
+	</Char></CharAnno>
+	<CharAnno><Char id="129" label="&#6016;" lineid="1">
+		<coor xmin="247" ymin="110" />
+		<coor xmax="320" ymax="169" />
+	</Char></CharAnno>
+	<CharAnno><Char id="130" label="&#6040;" lineid="1">
+		<coor xmin="326" ymin="116" />
+		<coor xmax="389" ymax="171" />
+	</Char></CharAnno>
+	<CharAnno><Char id="132" label="&#6035;" lineid="1">
+		<coor xmin="422" ymin="112" />
+		<coor xmax="488" ymax="182" />
+	</Char></CharAnno>
+	<CharAnno><Char id="135" label="&#6035;" lineid="1">
+		<coor xmin="564" ymin="118" />
+		<coor xmax="643" ymax="187" />
+	</Char></CharAnno>
+	<CharAnno><Char id="139" label="&#6047;" lineid="1">
+		<coor xmin="1015" ymin="120" />
+		<coor xmax="1100" ymax="188" />
+	</Char></CharAnno>
+	<CharAnno><Char id="141" label="&#6042;" lineid="1">
+		<coor xmin="1102" ymin="117" />
+		<coor xmax="1139" ymax="180" />
+	</Char></CharAnno>
+	<CharAnno><Char id="142" label="&#6040;" lineid="1">
+		<coor xmin="1137" ymin="121" />
+		<coor xmax="1210" ymax="182" />
+	</Char></CharAnno>
+	<CharAnno><Char id="148" label="&#6035;" lineid="1">
+		<coor xmin="1389" ymin="116" />
+		<coor xmax="1465" ymax="190" />
+	</Char></CharAnno>
+	<CharAnno><Char id="149" label="&#6042;" lineid="2">
+		<coor xmin="1472" ymin="209" />
+		<coor xmax="1504" ymax="256" />
+	</Char></CharAnno>
+	<CharAnno><Char id="154" label="&#6047;" lineid="2">
+		<coor xmin="1497" ymin="207" />
+		<coor xmax="1578" ymax="264" />
+	</Char></CharAnno>
+	<CharAnno><Char id="157" label="&#6042;" lineid="2">
+		<coor xmin="1602" ymin="204" />
+		<coor xmax="1636" ymax="257" />
+	</Char></CharAnno>
+	<CharAnno><Char id="228" label="&#6016;" lineid="2">
+		<coor xmin="652" ymin="210" />
+		<coor xmax="720" ymax="262" />
+	</Char></CharAnno>
+	<CharAnno><Char id="236" label="&#6016;" lineid="2">
+		<coor xmin="1274" ymin="211" />
+		<coor xmax="1332" ymax="263" />
+	</Char></CharAnno>
+	<CharAnno><Char id="303" label="&#6035;" lineid="3">
+		<coor xmin="237" ymin="289" />
+		<coor xmax="297" ymax="348" />
+	</Char></CharAnno>
+	<CharAnno><Char id="310" label="&#6016;" lineid="3">
+		<coor xmin="651" ymin="292" />
+		<coor xmax="711" ymax="350" />
+	</Char></CharAnno>
+	<CharAnno><Char id="322" label="&#6016;" lineid="3">
+		<coor xmin="1311" ymin="294" />
+		<coor xmax="1373" ymax="344" />
+	</Char></CharAnno>
+	<CharAnno><Char id="323" label="&#6040;" lineid="3">
+		<coor xmin="1371" ymin="297" />
+		<coor xmax="1440" ymax="347" />
+	</Char></CharAnno>
+	<CharAnno><Char id="324" label="&#6016;" lineid="3">
+		<coor xmin="1440" ymin="292" />
+		<coor xmax="1507" ymax="344" />
+	</Char></CharAnno>
+	<CharAnno><Char id="327" label="&#6042;" lineid="3">
+		<coor xmin="1568" ymin="294" />
+		<coor xmax="1605" ymax="344" />
+	</Char></CharAnno>
+	<CharAnno><Char id="406" label="&#6016;" lineid="4">
+		<coor xmin="296" ymin="380" />
+		<coor xmax="349" ymax="428" />
+	</Char></CharAnno>
+	<CharAnno><Char id="416" label="&#6040;" lineid="4">
+		<coor xmin="696" ymin="390" />
+		<coor xmax="755" ymax="439" />
+	</Char></CharAnno>
+	<CharAnno><Char id="417" label="&#6035;" lineid="4">
+		<coor xmin="762" ymin="381" />
+		<coor xmax="828" ymax="446" />
+	</Char></CharAnno>
+	<CharAnno><Char id="429" label="&#6016;" lineid="4">
+		<coor xmin="1371" ymin="377" />
+		<coor xmax="1435" ymax="432" />
+	</Char></CharAnno>
+	<CharAnno><Char id="434" label="&#6040;" lineid="4">
+		<coor xmin="1603" ymin="379" />
+		<coor xmax="1654" ymax="436" />
+	</Char></CharAnno>
+</Annotation>

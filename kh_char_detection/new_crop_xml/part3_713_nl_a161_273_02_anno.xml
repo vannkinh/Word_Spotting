@@ -1,0 +1,58 @@
+<Annotation>
+	<CharAnno><Char id="295" label="&#6035;" lineid="0">
+		<coor xmin="43" ymin="57" />
+		<coor xmax="100" ymax="104" />
+	</Char></CharAnno>
+	<CharAnno><Char id="301" label="&#6016;" lineid="0">
+		<coor xmin="376" ymin="56" />
+		<coor xmax="438" ymax="103" />
+	</Char></CharAnno>
+	<CharAnno><Char id="326" label="&#6035;" lineid="4">
+		<coor xmin="368" ymin="374" />
+		<coor xmax="432" ymax="422" />
+	</Char></CharAnno>
+	<CharAnno><Char id="335" label="&#6047;" lineid="4">
+		<coor xmin="735" ymin="367" />
+		<coor xmax="794" ymax="418" />
+	</Char></CharAnno>
+	<CharAnno><Char id="351" label="&#6047;" lineid="3">
+		<coor xmin="503" ymin="297" />
+		<coor xmax="575" ymax="341" />
+	</Char></CharAnno>
+	<CharAnno><Char id="355" label="&#6035;" lineid="3">
+		<coor xmin="660" ymin="291" />
+		<coor xmax="730" ymax="344" />
+	</Char></CharAnno>
+	<CharAnno><Char id="364" label="&#6035;" lineid="2">
+		<coor xmin="212" ymin="204" />
+		<coor xmax="274" ymax="261" />
+	</Char></CharAnno>
+	<CharAnno><Char id="372" label="&#6016;" lineid="1">
+		<coor xmin="359" ymin="131" />
+		<coor xmax="412" ymax="187" />
+	</Char></CharAnno>
+	<CharAnno><Char id="374" label="&#6016;" lineid="1">
+		<coor xmin="437" ymin="127" />
+		<coor xmax="497" ymax="182" />
+	</Char></CharAnno>
+	<CharAnno><Char id="377" label="&#6016;" lineid="1">
+		<coor xmin="580" ymin="128" />
+		<coor xmax="637" ymax="186" />
+	</Char></CharAnno>
+	<CharAnno><Char id="383" label="&#6035;" lineid="1">
+		<coor xmin="829" ymin="120" />
+		<coor xmax="888" ymax="178" />
+	</Char></CharAnno>
+	<CharAnno><Char id="390" label="&#6016;" lineid="2">
+		<coor xmin="648" ymin="201" />
+		<coor xmax="706" ymax="258" />
+	</Char></CharAnno>
+	<CharAnno><Char id="392" label="&#6042;" lineid="2">
+		<coor xmin="755" ymin="215" />
+		<coor xmax="788" ymax="266" />
+	</Char></CharAnno>
+	<CharAnno><Char id="412" label="&#6047;" lineid="0">
+		<coor xmin="1153" ymin="53" />
+		<coor xmax="1217" ymax="94" />
+	</Char></CharAnno>
+</Annotation>

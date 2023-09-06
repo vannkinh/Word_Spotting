@@ -1,0 +1,58 @@
+<Annotation>
+	<CharAnno><Char id="10" label="&#6042;" lineid="0">
+		<coor xmin="915" ymin="22" />
+		<coor xmax="952" ymax="77" />
+	</Char></CharAnno>
+	<CharAnno><Char id="22" label="&#6042;" lineid="1">
+		<coor xmin="823" ymin="96" />
+		<coor xmax="856" ymax="145" />
+	</Char></CharAnno>
+	<CharAnno><Char id="28" label="&#6016;" lineid="1">
+		<coor xmin="1027" ymin="97" />
+		<coor xmax="1089" ymax="157" />
+	</Char></CharAnno>
+	<CharAnno><Char id="39" label="&#6042;" lineid="2">
+		<coor xmin="1002" ymin="175" />
+		<coor xmax="1042" ymax="233" />
+	</Char></CharAnno>
+	<CharAnno><Char id="40" label="&#6040;" lineid="2">
+		<coor xmin="1040" ymin="182" />
+		<coor xmax="1109" ymax="229" />
+	</Char></CharAnno>
+	<CharAnno><Char id="49" label="&#6042;" lineid="4">
+		<coor xmin="600" ymin="329" />
+		<coor xmax="641" ymax="380" />
+	</Char></CharAnno>
+	<CharAnno><Char id="51" label="&#6035;" lineid="4">
+		<coor xmin="670" ymin="331" />
+		<coor xmax="727" ymax="388" />
+	</Char></CharAnno>
+	<CharAnno><Char id="65" label="&#6035;" lineid="3">
+		<coor xmin="1019" ymin="256" />
+		<coor xmax="1080" ymax="307" />
+	</Char></CharAnno>
+	<CharAnno><Char id="73" label="&#6035;" lineid="3">
+		<coor xmin="1346" ymin="246" />
+		<coor xmax="1406" ymax="317" />
+	</Char></CharAnno>
+	<CharAnno><Char id="77" label="&#6047;" lineid="2">
+		<coor xmin="1289" ymin="181" />
+		<coor xmax="1371" ymax="235" />
+	</Char></CharAnno>
+	<CharAnno><Char id="86" label="&#6016;" lineid="1">
+		<coor xmin="1147" ymin="98" />
+		<coor xmax="1217" ymax="162" />
+	</Char></CharAnno>
+	<CharAnno><Char id="89" label="&#6047;" lineid="0">
+		<coor xmin="1226" ymin="28" />
+		<coor xmax="1302" ymax="76" />
+	</Char></CharAnno>
+	<CharAnno><Char id="110" label="&#6040;" lineid="2">
+		<coor xmin="1634" ymin="177" />
+		<coor xmax="1705" ymax="233" />
+	</Char></CharAnno>
+	<CharAnno><Char id="117" label="&#6042;" lineid="4">
+		<coor xmin="1564" ymin="341" />
+		<coor xmax="1596" ymax="393" />
+	</Char></CharAnno>
+</Annotation>

@@ -1,0 +1,58 @@
+<Annotation>
+	<CharAnno><Char id="10" label="&#6047;" lineid="0">
+		<coor xmin="1160" ymin="25" />
+		<coor xmax="1215" ymax="66" />
+	</Char></CharAnno>
+	<CharAnno><Char id="12" label="&#6042;" lineid="0">
+		<coor xmin="1216" ymin="28" />
+		<coor xmax="1238" ymax="70" />
+	</Char></CharAnno>
+	<CharAnno><Char id="20" label="&#6042;" lineid="0">
+		<coor xmin="1665" ymin="27" />
+		<coor xmax="1690" ymax="77" />
+	</Char></CharAnno>
+	<CharAnno><Char id="24" label="&#6035;" lineid="0">
+		<coor xmin="1762" ymin="28" />
+		<coor xmax="1827" ymax="80" />
+	</Char></CharAnno>
+	<CharAnno><Char id="98" label="&#6047;" lineid="1">
+		<coor xmin="558" ymin="91" />
+		<coor xmax="611" ymax="138" />
+	</Char></CharAnno>
+	<CharAnno><Char id="100" label="&#6040;" lineid="1">
+		<coor xmin="638" ymin="96" />
+		<coor xmax="688" ymax="140" />
+	</Char></CharAnno>
+	<CharAnno><Char id="102" label="&#6035;" lineid="1">
+		<coor xmin="715" ymin="88" />
+		<coor xmax="782" ymax="144" />
+	</Char></CharAnno>
+	<CharAnno><Char id="237" label="&#6047;" lineid="2">
+		<coor xmin="556" ymin="173" />
+		<coor xmax="611" ymax="214" />
+	</Char></CharAnno>
+	<CharAnno><Char id="242" label="&#6047;" lineid="2">
+		<coor xmin="913" ymin="183" />
+		<coor xmax="964" ymax="219" />
+	</Char></CharAnno>
+	<CharAnno><Char id="247" label="&#6035;" lineid="2">
+		<coor xmin="1119" ymin="181" />
+		<coor xmax="1181" ymax="229" />
+	</Char></CharAnno>
+	<CharAnno><Char id="286" label="&#6042;" lineid="4">
+		<coor xmin="790" ymin="342" />
+		<coor xmax="815" ymax="381" />
+	</Char></CharAnno>
+	<CharAnno><Char id="301" label="&#6047;" lineid="3">
+		<coor xmin="1442" ymin="268" />
+		<coor xmax="1499" ymax="309" />
+	</Char></CharAnno>
+	<CharAnno><Char id="311" label="&#6042;" lineid="4">
+		<coor xmin="1660" ymin="348" />
+		<coor xmax="1685" ymax="388" />
+	</Char></CharAnno>
+	<CharAnno><Char id="314" label="&#6040;" lineid="4">
+		<coor xmin="1794" ymin="352" />
+		<coor xmax="1846" ymax="393" />
+	</Char></CharAnno>
+</Annotation>

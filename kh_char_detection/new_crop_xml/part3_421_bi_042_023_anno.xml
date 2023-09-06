@@ -1,0 +1,58 @@
+<Annotation>
+	<CharAnno><Char id="232" label="&#6035;" lineid="0">
+		<coor xmin="66" ymin="31" />
+		<coor xmax="99" ymax="65" />
+	</Char></CharAnno>
+	<CharAnno><Char id="247" label="&#6042;" lineid="0">
+		<coor xmin="276" ymin="32" />
+		<coor xmax="296" ymax="65" />
+	</Char></CharAnno>
+	<CharAnno><Char id="258" label="&#6016;" lineid="3">
+		<coor xmin="158" ymin="233" />
+		<coor xmax="196" ymax="267" />
+	</Char></CharAnno>
+	<CharAnno><Char id="262" label="&#6040;" lineid="3">
+		<coor xmin="285" ymin="234" />
+		<coor xmax="322" ymax="268" />
+	</Char></CharAnno>
+	<CharAnno><Char id="263" label="&#6035;" lineid="3">
+		<coor xmin="322" ymin="234" />
+		<coor xmax="356" ymax="269" />
+	</Char></CharAnno>
+	<CharAnno><Char id="265" label="&#6047;" lineid="3">
+		<coor xmin="352" ymin="234" />
+		<coor xmax="392" ymax="269" />
+	</Char></CharAnno>
+	<CharAnno><Char id="270" label="&#6016;" lineid="3">
+		<coor xmin="470" ymin="237" />
+		<coor xmax="507" ymax="271" />
+	</Char></CharAnno>
+	<CharAnno><Char id="273" label="&#6035;" lineid="3">
+		<coor xmin="537" ymin="238" />
+		<coor xmax="568" ymax="274" />
+	</Char></CharAnno>
+	<CharAnno><Char id="287" label="&#6035;" lineid="4">
+		<coor xmin="206" ymin="303" />
+		<coor xmax="242" ymax="341" />
+	</Char></CharAnno>
+	<CharAnno><Char id="293" label="&#6035;" lineid="2">
+		<coor xmin="396" ymin="175" />
+		<coor xmax="430" ymax="210" />
+	</Char></CharAnno>
+	<CharAnno><Char id="299" label="&#6016;" lineid="1">
+		<coor xmin="203" ymin="100" />
+		<coor xmax="239" ymax="138" />
+	</Char></CharAnno>
+	<CharAnno><Char id="300" label="&#6042;" lineid="1">
+		<coor xmin="385" ymin="105" />
+		<coor xmax="411" ymax="140" />
+	</Char></CharAnno>
+	<CharAnno><Char id="313" label="&#6042;" lineid="0">
+		<coor xmin="448" ymin="36" />
+		<coor xmax="469" ymax="71" />
+	</Char></CharAnno>
+	<CharAnno><Char id="328" label="&#6042;" lineid="0">
+		<coor xmin="205" ymin="30" />
+		<coor xmax="224" ymax="68" />
+	</Char></CharAnno>
+</Annotation>

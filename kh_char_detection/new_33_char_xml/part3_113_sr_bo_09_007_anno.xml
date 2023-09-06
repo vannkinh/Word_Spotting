@@ -1,0 +1,154 @@
+<Annotation>
+	<CharAnno><Char id="51" label="&#6031;" lineid="0">
+		<coor xmin="133" ymin="52" />
+		<coor xmax="205" ymax="120" />
+	</Char></CharAnno>
+	<CharAnno><Char id="52" label="&#6031;" lineid="0">
+		<coor xmin="204" ymin="63" />
+		<coor xmax="260" ymax="112" />
+	</Char></CharAnno>
+	<CharAnno><Char id="55" label="&#6041;" lineid="0">
+		<coor xmin="287" ymin="65" />
+		<coor xmax="376" ymax="116" />
+	</Char></CharAnno>
+	<CharAnno><Char id="57" label="&#6047;" lineid="0">
+		<coor xmin="382" ymin="62" />
+		<coor xmax="457" ymax="115" />
+	</Char></CharAnno>
+	<CharAnno><Char id="59" label="&#6035;" lineid="0">
+		<coor xmin="490" ymin="60" />
+		<coor xmax="552" ymax="115" />
+	</Char></CharAnno>
+	<CharAnno><Char id="61" label="&#6036;" lineid="0">
+		<coor xmin="555" ymin="63" />
+		<coor xmax="620" ymax="113" />
+	</Char></CharAnno>
+	<CharAnno><Char id="63" label="&#6021;" lineid="0">
+		<coor xmin="621" ymin="62" />
+		<coor xmax="682" ymax="113" />
+	</Char></CharAnno>
+	<CharAnno><Char id="66" label="&#6040;" lineid="0">
+		<coor xmin="709" ymin="70" />
+		<coor xmax="778" ymax="117" />
+	</Char></CharAnno>
+	<CharAnno><Char id="111" label="&#6031;" lineid="1">
+		<coor xmin="136" ymin="160" />
+		<coor xmax="206" ymax="220" />
+	</Char></CharAnno>
+	<CharAnno><Char id="113" label="&#6041;" lineid="1">
+		<coor xmin="274" ymin="161" />
+		<coor xmax="366" ymax="214" />
+	</Char></CharAnno>
+	<CharAnno><Char id="114" label="&#6040;" lineid="1">
+		<coor xmin="368" ymin="166" />
+		<coor xmax="426" ymax="215" />
+	</Char></CharAnno>
+	<CharAnno><Char id="117" label="&#6036;" lineid="1">
+		<coor xmin="468" ymin="163" />
+		<coor xmax="527" ymax="218" />
+	</Char></CharAnno>
+	<CharAnno><Char id="119" label="&#6021;" lineid="1">
+		<coor xmin="532" ymin="158" />
+		<coor xmax="591" ymax="216" />
+	</Char></CharAnno>
+	<CharAnno><Char id="122" label="&#6040;" lineid="1">
+		<coor xmin="623" ymin="169" />
+		<coor xmax="688" ymax="222" />
+	</Char></CharAnno>
+	<CharAnno><Char id="124" label="&#6016;" lineid="1">
+		<coor xmin="784" ymin="158" />
+		<coor xmax="860" ymax="215" />
+	</Char></CharAnno>
+	<CharAnno><Char id="168" label="&#6040;" lineid="2">
+		<coor xmin="50" ymin="260" />
+		<coor xmax="119" ymax="325" />
+	</Char></CharAnno>
+	<CharAnno><Char id="169" label="&#6031;" lineid="2">
+		<coor xmin="123" ymin="271" />
+		<coor xmax="185" ymax="327" />
+	</Char></CharAnno>
+	<CharAnno><Char id="171" label="&#6034;" lineid="2">
+		<coor xmin="191" ymin="266" />
+		<coor xmax="253" ymax="325" />
+	</Char></CharAnno>
+	<CharAnno><Char id="173" label="&#6042;" lineid="2">
+		<coor xmin="282" ymin="270" />
+		<coor xmax="313" ymax="324" />
+	</Char></CharAnno>
+	<CharAnno><Char id="174" label="&#6041;" lineid="2">
+		<coor xmin="322" ymin="263" />
+		<coor xmax="409" ymax="327" />
+	</Char></CharAnno>
+	<CharAnno><Char id="176" label="&#6040;" lineid="2">
+		<coor xmin="443" ymin="269" />
+		<coor xmax="512" ymax="324" />
+	</Char></CharAnno>
+	<CharAnno><Char id="181" label="&#6042;" lineid="2">
+		<coor xmin="760" ymin="268" />
+		<coor xmax="789" ymax="318" />
+	</Char></CharAnno>
+	<CharAnno><Char id="183" label="&#6023;" lineid="2">
+		<coor xmin="821" ymin="238" />
+		<coor xmax="883" ymax="322" />
+	</Char></CharAnno>
+	<CharAnno><Char id="223" label="&#6047;" lineid="3">
+		<coor xmin="33" ymin="375" />
+		<coor xmax="113" ymax="436" />
+	</Char></CharAnno>
+	<CharAnno><Char id="224" label="&#6047;" lineid="3">
+		<coor xmin="113" ymin="368" />
+		<coor xmax="192" ymax="438" />
+	</Char></CharAnno>
+	<CharAnno><Char id="226" label="&#6034;" lineid="3">
+		<coor xmin="219" ymin="373" />
+		<coor xmax="287" ymax="431" />
+	</Char></CharAnno>
+	<CharAnno><Char id="227" label="&#6040;" lineid="3">
+		<coor xmin="289" ymin="372" />
+		<coor xmax="355" ymax="427" />
+	</Char></CharAnno>
+	<CharAnno><Char id="232" label="&#6033;" lineid="3">
+		<coor xmin="471" ymin="369" />
+		<coor xmax="539" ymax="430" />
+	</Char></CharAnno>
+	<CharAnno><Char id="234" label="&#6047;" lineid="3">
+		<coor xmin="531" ymin="366" />
+		<coor xmax="615" ymax="432" />
+	</Char></CharAnno>
+	<CharAnno><Char id="236" label="&#6050;" lineid="3">
+		<coor xmin="614" ymin="371" />
+		<coor xmax="675" ymax="433" />
+	</Char></CharAnno>
+	<CharAnno><Char id="238" label="&#6031;" lineid="3">
+		<coor xmin="698" ymin="373" />
+		<coor xmax="757" ymax="426" />
+	</Char></CharAnno>
+	<CharAnno><Char id="239" label="&#6021;" lineid="3">
+		<coor xmin="757" ymin="366" />
+		<coor xmax="813" ymax="426" />
+	</Char></CharAnno>
+	<CharAnno><Char id="241" label="&#6035;" lineid="3">
+		<coor xmin="812" ymin="377" />
+		<coor xmax="879" ymax="425" />
+	</Char></CharAnno>
+	<CharAnno><Char id="293" label="&#6041;" lineid="4">
+		<coor xmin="98" ymin="468" />
+		<coor xmax="190" ymax="525" />
+	</Char></CharAnno>
+	<CharAnno><Char id="295" label="&#6036;" lineid="4">
+		<coor xmin="215" ymin="467" />
+		<coor xmax="281" ymax="528" />
+	</Char></CharAnno>
+	<CharAnno><Char id="296" label="&#6035;" lineid="4">
+		<coor xmin="281" ymin="472" />
+		<coor xmax="339" ymax="526" />
+	</Char></CharAnno>
+	<CharAnno><Char id="298" label="&#6016;" lineid="4">
+		<coor xmin="401" ymin="469" />
+		<coor xmax="470" ymax="529" />
+	</Char></CharAnno>
+	<CharAnno><Char id="304" label="&#6030;" lineid="4">
+		<coor xmin="736" ymin="476" />
+		<coor xmax="837" ymax="526" />
+	</Char></CharAnno>
+</Annotation>

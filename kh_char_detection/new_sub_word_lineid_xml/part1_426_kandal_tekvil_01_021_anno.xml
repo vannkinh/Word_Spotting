@@ -1,0 +1,354 @@
+<Annotation>
+	<SubSylAnno><SubSyl id="2" label="&#6026;" lineid="0">
+		<coor xmin="571" ymin="44" />
+		<coor xmax="634" ymax="136" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="3" label="&#6033;&#6083;" lineid="0">
+		<coor xmin="597" ymin="4" />
+		<coor xmax="753" ymax="132" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="4" label="&#6103;" lineid="0">
+		<coor xmin="806" ymin="66" />
+		<coor xmax="869" ymax="163" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="5" label="&#6016;&#6098;&#6026;&#6072;" lineid="0">
+		<coor xmin="937" ymin="13" />
+		<coor xmax="1017" ymax="167" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="6" label="&#6041;" lineid="0">
+		<coor xmin="1018" ymin="62" />
+		<coor xmax="1116" ymax="135" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="7" label="&#6036;" lineid="1">
+		<coor xmin="571" ymin="172" />
+		<coor xmax="649" ymax="247" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="8" label="&#6025;&#6098;&#6021;&#6075;&#6087;" lineid="1">
+		<coor xmin="637" ymin="173" />
+		<coor xmax="774" ymax="282" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="9" label="&#6038;&#6098;&#6042;&#6087;" lineid="1">
+		<coor xmin="764" ymin="144" />
+		<coor xmax="873" ymax="277" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="10" label="&#6036;" lineid="1">
+		<coor xmin="866" ymin="178" />
+		<coor xmax="942" ymax="244" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="11" label="&#6042;" lineid="1">
+		<coor xmin="937" ymin="177" />
+		<coor xmax="978" ymax="243" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="12" label="&#6040;" lineid="1">
+		<coor xmin="978" ymin="178" />
+		<coor xmax="1049" ymax="247" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="13" label="&#6034;&#6070;" lineid="1">
+		<coor xmin="1055" ymin="177" />
+		<coor xmax="1148" ymax="245" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="14" label="&#6031;&#6075;" lineid="1">
+		<coor xmin="1153" ymin="175" />
+		<coor xmax="1221" ymax="292" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="15" label="&#6053;" lineid="2">
+		<coor xmin="553" ymin="240" />
+		<coor xmax="613" ymax="361" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="16" label="&#6031;" lineid="2">
+		<coor xmin="621" ymin="288" />
+		<coor xmax="691" ymax="358" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="17" label="&#6050;" lineid="2">
+		<coor xmin="686" ymin="286" />
+		<coor xmax="748" ymax="355" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="18" label="&#6020;&#6098;&#6018;&#6074;" lineid="2">
+		<coor xmin="730" ymin="248" />
+		<coor xmax="840" ymax="398" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="19" label="&#6040;&#6070;" lineid="2">
+		<coor xmin="822" ymin="288" />
+		<coor xmax="903" ymax="361" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="20" label="&#6035;" lineid="2">
+		<coor xmin="909" ymin="285" />
+		<coor xmax="973" ymax="363" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="21" label="&#6043;&#6078;&#6098;&#6041;" lineid="2">
+		<coor xmin="979" ymin="242" />
+		<coor xmax="1113" ymax="420" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="23" label="&#6047;&#6098;&#6026;&#6081;" lineid="3">
+		<coor xmin="793" ymin="394" />
+		<coor xmax="912" ymax="504" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="24" label="&#6021;" lineid="3">
+		<coor xmin="909" ymin="394" />
+		<coor xmax="995" ymax="467" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="25" label="&#6038;&#6098;&#6042;&#6087;" lineid="4">
+		<coor xmin="525" ymin="490" />
+		<coor xmax="660" ymax="633" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="26" label="&#6047;&#6075;" lineid="4">
+		<coor xmin="693" ymin="512" />
+		<coor xmax="779" ymax="633" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="27" label="&#6032;&#6076;" lineid="4">
+		<coor xmin="773" ymin="486" />
+		<coor xmax="844" ymax="653" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="28" label="&#6036;" lineid="4">
+		<coor xmin="840" ymin="520" />
+		<coor xmax="911" ymax="601" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="29" label="&#6047;&#6098;&#6042;&#6081;" lineid="4">
+		<coor xmin="946" ymin="493" />
+		<coor xmax="1079" ymax="641" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="30" label="&#6021;" lineid="4">
+		<coor xmin="1068" ymin="525" />
+		<coor xmax="1142" ymax="600" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="31" label="&#6040;" lineid="0">
+		<coor xmin="1263" ymin="61" />
+		<coor xmax="1327" ymax="131" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="32" label="&#6016;" lineid="0">
+		<coor xmin="1323" ymin="66" />
+		<coor xmax="1393" ymax="129" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="33" label="&#6026;" lineid="0">
+		<coor xmin="1385" ymin="40" />
+		<coor xmax="1448" ymax="131" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="34" label="&#6030;&#6098;&#6026;&#6073;" lineid="0">
+		<coor xmin="1450" ymin="16" />
+		<coor xmax="1545" ymax="170" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="35" label="&#6020;" lineid="0">
+		<coor xmin="1543" ymin="30" />
+		<coor xmax="1643" ymax="133" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="36" label="&#6032;&#6070;" lineid="0">
+		<coor xmin="1623" ymin="48" />
+		<coor xmax="1694" ymax="134" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="37" label="&#6038;&#6098;&#6042;&#6087;" lineid="0">
+		<coor xmin="1698" ymin="30" />
+		<coor xmax="1802" ymax="175" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="38" label="&#6048;&#6070;" lineid="0">
+		<coor xmin="1873" ymin="62" />
+		<coor xmax="1985" ymax="140" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="39" label="&#6040;" lineid="0">
+		<coor xmin="1808" ymin="66" />
+		<coor xmax="1879" ymax="140" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="40" label="&#6017;&#6098;&#6047;" lineid="0">
+		<coor xmin="1990" ymin="63" />
+		<coor xmax="2088" ymax="181" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="41" label="&#6031;&#6098;&#6042;" lineid="0">
+		<coor xmin="2076" ymin="32" />
+		<coor xmax="2185" ymax="173" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="44" label="&#6035;&#6083;" lineid="1">
+		<coor xmin="1343" ymin="120" />
+		<coor xmax="1495" ymax="251" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="45" label="&#6038;&#6098;&#6042;&#6087;" lineid="1">
+		<coor xmin="1488" ymin="152" />
+		<coor xmax="1597" ymax="286" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="46" label="&#6050;" lineid="1">
+		<coor xmin="1608" ymin="176" />
+		<coor xmax="1678" ymax="248" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="47" label="&#6047;&#6072;" lineid="1">
+		<coor xmin="1678" ymin="135" />
+		<coor xmax="1760" ymax="252" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="48" label="&#6031;&#6071;" lineid="1">
+		<coor xmin="1754" ymin="136" />
+		<coor xmax="1828" ymax="246" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="49" label="&#6033;&#6078;" lineid="2">
+		<coor xmin="1355" ymin="245" />
+		<coor xmax="1445" ymax="357" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="50" label="&#6036;" lineid="2">
+		<coor xmin="1441" ymin="287" />
+		<coor xmax="1509" ymax="363" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="51" label="&#6038;&#6098;&#6042;&#6087;" lineid="2">
+		<coor xmin="1480" ymin="264" />
+		<coor xmax="1597" ymax="402" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="52" label="&#6040;" lineid="2">
+		<coor xmin="1609" ymin="290" />
+		<coor xmax="1675" ymax="362" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="53" label="&#6048;&#6070;" lineid="2">
+		<coor xmin="1669" ymin="278" />
+		<coor xmax="1782" ymax="361" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="54" label="&#6017;&#6098;&#6047;" lineid="2">
+		<coor xmin="1775" ymin="287" />
+		<coor xmax="1877" ymax="405" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="55" label="&#6031;&#6098;&#6042;" lineid="2">
+		<coor xmin="1871" ymin="259" />
+		<coor xmax="1982" ymax="398" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="56" label="&#6016;&#6095;" lineid="3">
+		<coor xmin="1171" ymin="355" />
+		<coor xmax="1277" ymax="471" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="57" label="&#6041;" lineid="3">
+		<coor xmin="1250" ymin="393" />
+		<coor xmax="1343" ymax="473" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="58" label="&#6016;" lineid="3">
+		<coor xmin="1335" ymin="398" />
+		<coor xmax="1395" ymax="471" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="59" label="&#6053;" lineid="3">
+		<coor xmin="1404" ymin="368" />
+		<coor xmax="1473" ymax="469" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="60" label="&#6026;&#6098;&#6027;" lineid="3">
+		<coor xmin="1477" ymin="393" />
+		<coor xmax="1565" ymax="515" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="61" label="&#6033;" lineid="3">
+		<coor xmin="1552" ymin="408" />
+		<coor xmax="1618" ymax="483" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="62" label="&#6020;" lineid="3">
+		<coor xmin="1613" ymin="390" />
+		<coor xmax="1704" ymax="477" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="63" label="&#6026;&#6082;" lineid="3">
+		<coor xmin="1694" ymin="374" />
+		<coor xmax="1801" ymax="478" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="64" label="&#6020;" lineid="3">
+		<coor xmin="1799" ymin="385" />
+		<coor xmax="1874" ymax="476" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="65" label="&#6048;&#6078;&#6098;&#6041;" lineid="4">
+		<coor xmin="1165" ymin="469" />
+		<coor xmax="1328" ymax="653" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="66" label="&#6047;&#6098;&#6026;&#6081;" lineid="4">
+		<coor xmin="1526" ymin="520" />
+		<coor xmax="1645" ymax="635" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="67" label="&#6021;" lineid="4">
+		<coor xmin="1646" ymin="526" />
+		<coor xmax="1717" ymax="599" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="68" label="&#6065;&#6098;&#6041;" lineid="4">
+		<coor xmin="1697" ymin="486" />
+		<coor xmax="1804" ymax="645" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="69" label="&#6041;" lineid="4">
+		<coor xmin="1829" ymin="521" />
+		<coor xmax="1931" ymax="598" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="70" label="&#6016;" lineid="4">
+		<coor xmin="1920" ymin="519" />
+		<coor xmax="2002" ymax="596" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="71" label="&#6053;" lineid="4">
+		<coor xmin="1990" ymin="469" />
+		<coor xmax="2057" ymax="592" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="74" label="&#6033;&#6085;" lineid="3">
+		<coor xmin="2117" ymin="378" />
+		<coor xmax="2265" ymax="475" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="75" label="&#6040;" lineid="1">
+		<coor xmin="1921" ymin="178" />
+		<coor xmax="1997" ymax="255" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="76" label="&#6048;&#6070;" lineid="1">
+		<coor xmin="1992" ymin="177" />
+		<coor xmax="2116" ymax="253" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="77" label="&#6047;&#6070;" lineid="1">
+		<coor xmin="2118" ymin="174" />
+		<coor xmax="2228" ymax="246" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="78" label="&#6044;" lineid="1">
+		<coor xmin="2218" ymin="123" />
+		<coor xmax="2286" ymax="256" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="79" label="&#6016;" lineid="1">
+		<coor xmin="2281" ymin="180" />
+		<coor xmax="2338" ymax="261" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="80" label="&#6038;&#6098;&#6042;&#6087;" lineid="2">
+		<coor xmin="2076" ymin="253" />
+		<coor xmax="2187" ymax="396" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="81" label="&#6065;&#6098;&#6041;" lineid="2">
+		<coor xmin="2181" ymin="265" />
+		<coor xmax="2275" ymax="403" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="82" label="&#6023;&#6071;" lineid="2">
+		<coor xmin="2258" ymin="245" />
+		<coor xmax="2364" ymax="361" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="83" label="&#6026;&#6070;" lineid="3">
+		<coor xmin="2241" ymin="395" />
+		<coor xmax="2345" ymax="482" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="84" label="&#6038;&#6098;&#6042;&#6087;" lineid="0">
+		<coor xmin="2314" ymin="36" />
+		<coor xmax="2430" ymax="169" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="85" label="&#6050;" lineid="0">
+		<coor xmin="2425" ymin="67" />
+		<coor xmax="2497" ymax="136" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="86" label="&#6020;&#6098;&#6018;" lineid="0">
+		<coor xmin="2488" ymin="42" />
+		<coor xmax="2565" ymax="177" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="87" label="&#6065;&#6098;&#6041;" lineid="0">
+		<coor xmin="2548" ymin="35" />
+		<coor xmax="2642" ymax="186" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="96" label="&#6047;&#6098;&#6038;&#6070;" lineid="4">
+		<coor xmin="2343" ymin="525" />
+		<coor xmax="2454" ymax="639" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="97" label="&#6035;&#6091;" lineid="4">
+		<coor xmin="2454" ymin="498" />
+		<coor xmax="2522" ymax="603" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="98" label="&#6053;" lineid="4">
+		<coor xmin="2523" ymin="469" />
+		<coor xmax="2599" ymax="597" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="99" label="&#6026;&#6098;&#6027;" lineid="4">
+		<coor xmin="2598" ymin="502" />
+		<coor xmax="2699" ymax="636" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="292" label="&#6048;&#6078;" lineid="3">
+		<coor xmin="544" ymin="342" />
+		<coor xmax="664" ymax="473" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="293" label="&#6041;" lineid="3">
+		<coor xmin="676" ymin="393" />
+		<coor xmax="779" ymax="471" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="297" label="&#6026;&#6098;&#6027;" lineid="4">
+		<coor xmin="2049" ymin="492" />
+		<coor xmax="2139" ymax="635" />
+	</SubSyl></SubSylAnno>
+</Annotation>

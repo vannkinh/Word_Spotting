@@ -1,0 +1,58 @@
+<Annotation>
+	<SubSylAnno><SubSyl id="58" label="&#6031;&#6098;&#6040;&#6070;" lineid="0">
+		<coor xmin="137" ymin="34" />
+		<coor xmax="267" ymax="127" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="59" label="&#6047;" lineid="0">
+		<coor xmin="273" ymin="37" />
+		<coor xmax="345" ymax="97" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="60" label="&#6026;" lineid="0">
+		<coor xmin="346" ymin="14" />
+		<coor xmax="413" ymax="96" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="61" label="&#6043;&#6091;" lineid="0">
+		<coor xmin="411" ymin="29" />
+		<coor xmax="495" ymax="93" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="62" label="&#6040;&#6081;" lineid="0">
+		<coor xmin="491" ymin="33" />
+		<coor xmax="595" ymax="93" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="63" label="&#6036;&#6070;" lineid="0">
+		<coor xmin="601" ymin="36" />
+		<coor xmax="698" ymax="105" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="64" label="&#6048;&#6084;" lineid="1">
+		<coor xmin="180" ymin="115" />
+		<coor xmax="337" ymax="174" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="65" label="&#6020;" lineid="1">
+		<coor xmin="340" ymin="117" />
+		<coor xmax="424" ymax="175" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="66" label="&#6100;" lineid="1">
+		<coor xmin="530" ymin="123" />
+		<coor xmax="612" ymax="178" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="67" label="&#6031;&#6098;&#6042;" lineid="0">
+		<coor xmin="816" ymin="1" />
+		<coor xmax="897" ymax="95" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="68" label="&#6016;&#6076;" lineid="0">
+		<coor xmin="905" ymin="34" />
+		<coor xmax="972" ymax="110" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="69" label="&#6043;" lineid="0">
+		<coor xmin="974" ymin="33" />
+		<coor xmax="1065" ymax="91" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="70" label="&#6042;&#6080;" lineid="0">
+		<coor xmin="1064" ymin="10" />
+		<coor xmax="1174" ymax="114" />
+	</SubSyl></SubSylAnno>
+	<SubSylAnno><SubSyl id="71" label="&#6040;" lineid="0">
+		<coor xmin="1175" ymin="41" />
+		<coor xmax="1244" ymax="96" />
+	</SubSyl></SubSylAnno>
+</Annotation>
